@@ -1,6 +1,6 @@
 # Bem vindo(a) ao meu Github #
 
-Olá, meu nome é Victor Hugo. MIneiro de João Pinheiro.
+Olá, meu nome é Victor Hugo. Mineiro de João Pinheiro.
 
 ## Meus Hobbies
 
