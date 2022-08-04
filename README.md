@@ -9,6 +9,7 @@ Olá, meu nome é Victor Hugo.
 - Jogar Videogame
 - Shows de Rock n' Roll
 
-## Estudando python para Ciencia de dados
-## Javascript
-## react
+## Sempre Aprendendo
+- python para Ciencia de dados
+- Javascript
+- react
