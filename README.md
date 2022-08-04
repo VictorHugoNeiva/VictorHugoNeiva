@@ -10,6 +10,7 @@ Olá, meu nome é Victor Hugo. Mineiro de João Pinheiro.
 - Shows de Rock n' Roll
 
 ## Sempre Aprendendo
+- TI
 - python para Ciencia de dados
 - Javascript
 - react
